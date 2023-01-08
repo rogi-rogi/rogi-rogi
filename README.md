@@ -1,4 +1,4 @@
-### Hi there 👋
+### 날개가 녹아 없어지더라도, 더 높은 곳으로
 
 <!--
 **rogi-rogi/rogi-rogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
