@@ -1,5 +1,4 @@
-### 날개가 녹아 없어지더라도, 더 높은 곳으로
-
+## 숲을 보되 나무를 봐라.
 <!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogi-rogi&layout=compact&theme=tokyonight)
 -->
@@ -26,6 +25,7 @@
       <h3>Stack</h3>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=0D1117">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=0D1117">
+      <img src="https://img.shields.io/badge/Next.js-339933?style=flat&logo=nextdotjs&logoColor=0D1117">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=0D1117">
       <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=0D1117">
     </li>
