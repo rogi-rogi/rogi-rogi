@@ -25,7 +25,7 @@
       <h3>Stack</h3>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=0D1117">
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=0D1117">
-      <img src="https://img.shields.io/badge/Next.js-339933?style=flat&logo=nextdotjs&logoColor=0D1117">
+      <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat&logo=nestjs&logoColor=0D1117">
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=0D1117">
       <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=0D1117">
     </li>
