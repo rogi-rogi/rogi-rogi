@@ -7,12 +7,12 @@
 <div align=center >
 
   ⭐
+  ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
   ⭐
 
   ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-512BD4.svg?&style=for-the-badge&logo=csharp&logoColor=white)
   ![Html5](https://img.shields.io/badge/Html5-E34F26.svg?&style=for-the-badge&logo=Html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
