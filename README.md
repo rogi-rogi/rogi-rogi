@@ -33,7 +33,6 @@
       <td colspan='3'>
         <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
         <img src="https://img.shields.io/badge/Rust-000000.svg?&style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-        <img src="https://img.shields.io/badge/jirasoftware-0052CC.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Jira">
       </td>
     </tr>
     <tr>
@@ -43,6 +42,7 @@
       <td colspan='3'>
         <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git">
         <img src="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="Github">
+        <img src="https://img.shields.io/badge/Confluence-0052CC.svg?&style=for-the-badge&logo=confluence&logoColor=white" alt="Confluence">
         <img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white" alt="Notion">
         <img src="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
       </td>
