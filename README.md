@@ -1,4 +1,4 @@
-# 🐢 꾸준한 거북이 개발자
+# 🐢 꾸준하고 완벽한 한 걸음
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogi-rogi&layout=compact&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=polygon)](https://solved.ac/polygon/)
