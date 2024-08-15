@@ -4,6 +4,7 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=polygon)](https://solved.ac/polygon/)
 
 # 📚 Stack
+
 <div>
   <table>
     <tr>
@@ -11,17 +12,11 @@
           <h3>Main</h3>
         </td>
         <td>
-          <img src="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-          <p>Development</p>
-        </td>
-        <td>
+          <img src="https://img.shields.io/badge/Java-ED8B00.svg?&style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
           <img src="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python">
-          <img src="https://img.shields.io/badge/typescript-3178C6?&style=for-the-badge&logo=Typescript&logoColor=white" alt="TypeScript">
-          <p>Toy Project</p>
         </td>
         <td>
           <img src="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-          <img src="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
           <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
           <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
         </td>
