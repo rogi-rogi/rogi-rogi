@@ -56,5 +56,5 @@
 
 # 📜 Profile
 
-[![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://held-sparrow-180.notion.site/Young-Rok-3c5780b41711457b83a643eefd8240de)
+[![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)](https://held-sparrow-180.notion.site/Young-Rok-1b8c96bf505e8014a372e555a6215399?pvs=74)
 
