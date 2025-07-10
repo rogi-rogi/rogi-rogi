@@ -1,7 +1,15 @@
-# 🐢 꾸준하고 완벽한 한 걸음
+# 🏃🏻‍♂️꾸준하고 완벽한 한 걸음
 
+<!-- Github Profile Widgets-->
+
+![Youngrok's GitHub stats](https://github-readme-stats.vercel.app/api?username=rogi-rogi&show_icons=true&theme=default)
+<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rogi-rogi&layout=compact&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=polygon)](https://solved.ac/polygon/)
+<br>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi,+I'm+Youngrok!;Backend+Developer+%7C+AI+Explorer;I+write+code+that+for+users+and;the+team+I+cherish!;Always+Learning+and+Building)
+
+
 
 # 📚 Stack
 
