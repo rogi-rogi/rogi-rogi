@@ -24,8 +24,8 @@ I'm always learning, growing, and building new things.
 <table width="100%">
   <thead>
     <tr>
-      <th width="20%" align="left">Category</th>
-      <th width="80%" align="left">Technologies</th>
+      <th width="25%" align="left">Category</th>
+      <th width="75%" align="left">Technologies</th>
     </tr>
   </thead>
   <tbody>
