@@ -16,7 +16,7 @@ I'm always learning, growing, and building new things.
 
 **I make possibilities real — through code.**
 
-And I hope that by sharing the struggles I’ve walked through, others may find it easier to bloom.
+And I hope other people will be able to bloom on the mud path I've walked.
 
 <br>
 
