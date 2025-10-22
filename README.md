@@ -1,9 +1,9 @@
 
 
 # 😊 Hi there! 👋 I'm Youngrok Kim.
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=500&color=58A6FF&width=999&height=60&vCenter=true&lines=As+a+Backend+Developer+and+AI+Explorer,;I+write+code+that+ensures+a+seamless+user+experience+and..;my+valued+teammates⭐;I'm+always+learning,+growing,+and+building+new+things.)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=25&pause=500&color=58A6FF&width=999&height=60&vCenter=true&lines=As+a+Backend+Developer,;I+write+code+that+ensures+a+seamless+user+experience+and..;my+valued+teammates⭐;I'm+always+learning,+growing,+and+building+new+things.)
 <!--
-As a Backend Developer and AI Explorer,
+As a Backend Developer,
 I write code that ensures a seamless user experience and..
 my valued teammates⭐
 I'm always learning, growing, and building new things.
@@ -12,9 +12,11 @@ I'm always learning, growing, and building new things.
 <!-- My Philosophy -->
 **Purposeful passion. Trustworthy teammates.**
 
-*That will do.*
+*That’s all I seek.*
 
 **I make possibilities real — through code.**
+
+And I hope that by sharing the struggles I’ve walked through, others may find it easier to bloom.
 
 <br>
 
